@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dayalwarshlok
+- 👋 Hi, I’m @dayalwar shivashlok
 - 👀 I’m interested in exploring ...
 
 <!---
