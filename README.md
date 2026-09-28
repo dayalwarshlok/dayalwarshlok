@@ -31,21 +31,25 @@ I'm a CSE (AI/ML) student at Parul University, focused on **AI/ML** and **prompt
 
 ---
 
-### 🔭 Currently Building
+### 🚀 Projects
 
 **[IntroText AI](https://introtext-ai.vercel.app/)** 💬 An AI conversation wingman app that helps you start and carry conversations with confidence. Live on Vercel.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20IntroText%20AI-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://introtext-ai.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-IntroText%20AI-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://introtext-ai.vercel.app/)
 
-Alongside this, I'm practicing DSA daily.
+**[ProjectMentor AI](https://projmentor-gyjtuxph.manus.space/)** 🎓 An AI mentor that helps final-year students choose a project they can actually build.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ProjectMentor%20AI-00D4FF?style=for-the-badge&logo=rocket&logoColor=white)](https://projmentor-gyjtuxph.manus.space/)
+
+Alongside these, I'm practicing DSA daily.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dayalwarshlok&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dayalwarshlok&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayalwarshlok&theme=github_dark" />
+  <img height="170" src="https://streak-stats.demolab.com?user=dayalwarshlok&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
