@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @dayalwar shivashlok
-- 👀 I’m interested in exploring ...
+### Hi, I'm Shlok 👋
 
-<!---
-dayalwarshlok/dayalwarshlok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CSE (AI/ML) student at Parul University, focused on AI/ML and prompt engineering.
+
+- 🚀 Building future projects at the intersection of AI and real-world problems
+- 🧠 Practicing DSA and preparing for coding rounds
+- 🏆 Competing in hackathons and vibe-coding events
+- 💼 Looking for internship opportunities in AI/ML
+
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/shlok-dayalwar-9b7938319)
