@@ -61,6 +61,7 @@ I'm open to internships and collaborations in AI/ML. Feel free to reach out!
 <p>
   <a href="https://linkedin.com/in/shlok-dayalwar-9b7938319"><img src="https://img.shields.io/badge/LinkedIn-Shlok%20Dayalwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/dayalwarshlok"><img src="https://img.shields.io/badge/GitHub-dayalwarshlok-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shivadayalwar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-shivadayalwar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100%" width="100%"/>
