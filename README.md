@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DAYALWAR%20SHIVA%20SHLOK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hi%20Shlok&descAlignY=60&descSize=22" width="100%"/>
+<img width="480" height="354" alt="CodeMatrixGIF" src="https://github.com/user-attachments/assets/c5c39e63-348c-46e5-9d03-de1bb97cc877" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DAYALWAR%20SHIVA%20SHLOK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hi%20Shlok&descAlignY=60&descSize=22" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+### behind the code :
 
 I'm a CSE (AI/ML) student at Parul University, focused on **AI/ML** and **prompt engineering**. I enjoy turning ideas into working products, and I'm sharpening my problem-solving through **DSA** to get ready for coding rounds and internships.
 
