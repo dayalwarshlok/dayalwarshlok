@@ -1,4 +1,4 @@
-<img width="480" height="354" alt="CodeMatrixGIF" src="https://github.com/user-attachments/assets/c5c39e63-348c-46e5-9d03-de1bb97cc877" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DAYALWAR%20SHIVA%20SHLOK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hi%20Shlok&descAlignY=60&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DAYALWAR%20SHIVA%20SHLOK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hi%20Shlok&descAlignY=60&descSize=22" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -64,4 +64,4 @@ I'm open to internships and collaborations in AI/ML. Feel free to reach out!
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shivadayalwar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-shivadayalwar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
